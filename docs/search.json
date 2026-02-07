@@ -62,42 +62,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Write a brief introduction about yourself here. Include:\n\nYour academic background\nYour interest in data science\nYour career goals\nAny relevant experience or projects"
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "",
-    "text": "Write a brief introduction about yourself here. Include:\n\nYour academic background\nYour interest in data science\nYour career goals\nAny relevant experience or projects"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\n\n[Your Degree] - [University Name], [Year]\nRelevant Coursework: Statistics, Data Analysis, Programming, etc."
-  },
-  {
-    "objectID": "about.html#skills-interests",
-    "href": "about.html#skills-interests",
-    "title": "About Me",
-    "section": "Skills & Interests",
-    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub\n\n\n\nAreas of Interest\n\n[Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]\n[Other areas you’re curious about]"
-  },
-  {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About Me",
-    "section": "Goals",
-    "text": "Goals\nDescribe what you hope to achieve through your data science journey:\n\nShort-term learning objectives\nLong-term career aspirations\nTypes of problems you want to solve"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About Me",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: your.email@example.com\nGitHub: github.com/your-username\nLinkedIn: linkedin.com/in/your-profile\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
+    "text": "Brody Duncan\n\nIntroduction\nI am a university student studying data science. I’m interested in how data, policy, and real‑world decision‑making intersect. I am especially interested in legal analytics, a cross-section between statistics and the legal industry. I plan to attend law school after completing my undergraduate degree.\n\n\nEducation\n\nBrigham Young University\nB.S in Statistics; empahasis in data science\nExpected graduation: April 2027\n\n\n\nExperience\n\nFreshman Mentor for the Office of First Year Experience at BYU\n\nGuide current university freshman their first year and help them understand available resources\n\nPast positions:\n\nCatering staff for BYU dining services\nAssistant supervisor of merchandise at SeaWorld, San Antonio\n\nVolunteer service at a local community food bank\n\n\n\nSkills\n\nProficient in R for data analysis, wrangling, and modeling\nTrained in Python for various basic tasks\nWorking proficiency in Spanish\nCertified in various Microsoft programs (Excel, PowerPoint, Word)\nCertified in Adobe Photoshop and Illustrator\nStrong team player and leader from various job and extracurricular positions\n\n\n\nGet to Know Me\nI come from quite a large family, as I grew up with 5 brothers. All of my free time growing up was spent around my family finding whatever we could to entertain ourselves.\nI really enjoy playing strategy games, especially board games. I am currently engaged and going to get married this June.\n\n\nHeadshot\n\n\n\nHeadshot of Brody Duncan"
   },
   {
     "objectID": "projects/data-acquisition.html",
