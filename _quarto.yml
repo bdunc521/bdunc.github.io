@@ -37,6 +37,7 @@ website:
         - projects/eda.qmd
         - projects/data-acquisition.qmd
         - projects/final-project.qmd
+        - projects/linear_regression_tutorial.qmd
 
 format:
   html:

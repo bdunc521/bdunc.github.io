@@ -4,8 +4,8 @@ title: "Projects Overview"
 
 ## All Projects
 
-### [Exploratory Data Analysis Project](eda.qmd)
-**Description**: Pick a dataset and explore it to discover insights and answer questions.
+### [Linear Regression Ttutorial](linear_regression_tutorial.qmd)
+**Description**: A simple tutorial that teaches how to use pandas to create linear regression models.
 
 ### [Data Acquisition Project](data-acquisition.qmd)
 **Description**: Find an interesting data source, collect the data, and prepare it for analysis.
