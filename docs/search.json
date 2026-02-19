@@ -1,94 +1,9 @@
 [
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
-  },
-  {
-    "objectID": "projects/index.html#all-projects",
-    "href": "projects/index.html#all-projects",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
-  },
-  {
-    "objectID": "projects/eda.html",
-    "href": "projects/eda.html",
-    "title": "EDA Project",
-    "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
-    "crumbs": [
-      "EDA Project"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\n\n\n\nLearn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
-  },
-  {
-    "objectID": "index.html#about-this-portfolio",
-    "href": "index.html#about-this-portfolio",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "This portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages."
-  },
-  {
-    "objectID": "index.html#skills-im-learning",
-    "href": "index.html#skills-im-learning",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
-  },
-  {
-    "objectID": "index.html#my-projects",
-    "href": "index.html#my-projects",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Learn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Brody Duncan\n\nIntroduction\nI am a university student studying data science. I’m interested in how data, policy, and real‑world decision‑making intersect. I am especially interested in legal analytics, a cross-section between statistics and the legal industry. I plan to attend law school after completing my undergraduate degree.\n\n\nEducation\n\nBrigham Young University\nB.S in Statistics; empahasis in data science\nExpected graduation: April 2027\n\n\n\nExperience\n\nFreshman Mentor for the Office of First Year Experience at BYU\n\nGuide current university freshman their first year and help them understand available resources\n\nPast positions:\n\nCatering staff for BYU dining services\nAssistant supervisor of merchandise at SeaWorld, San Antonio\n\nVolunteer service at a local community food bank\n\n\n\nSkills\n\nProficient in R for data analysis, wrangling, and modeling\nTrained in Python for various basic tasks\nWorking proficiency in Spanish\nCertified in various Microsoft programs (Excel, PowerPoint, Word)\nCertified in Adobe Photoshop and Illustrator\nStrong team player and leader from various job and extracurricular positions\n\n\n\nGet to Know Me\nI come from quite a large family, as I grew up with 5 brothers. All of my free time growing up was spent around my family finding whatever we could to entertain ourselves.\nI really enjoy playing strategy games, especially board games. I am currently engaged and going to get married this June.\n\n\nHeadshot\n\n\n\nHeadshot of Brody Duncan"
-  },
-  {
-    "objectID": "projects/data-acquisition.html",
-    "href": "projects/data-acquisition.html",
-    "title": "Data Acquisition Project",
-    "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
-    "crumbs": [
-      "Data Acquisition Project"
-    ]
-  },
-  {
-    "objectID": "projects/final-project.html",
-    "href": "projects/final-project.html",
-    "title": "Final Project",
-    "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
-    "crumbs": [
-      "Final Project"
-    ]
-  },
-  {
     "objectID": "projects/linear_regression_tutorial.html",
     "href": "projects/linear_regression_tutorial.html",
     "title": "Linear Regression Tutorial",
     "section": "",
-    "text": "Purpose\n{markdown} Linear regression is an essential tool for any statistician, data scientist, or machine learning practitioner. Linear regression is used to model the relationship between a dependent variable and one or more independent variables. Linear regression can be used: - to make future predictions - understand the strength of relationships between variables - identify trends in data. This tutorial will cover the basics of linear regression using Python. To demonstrate, a database containing pricing and size (in square feet) of houses in California will be used. The goal of this tutorial is to predict the price of a house based on its size. ### Import necessary libraries ’’’{python} import pandas as pd import numpy as np import matplotlib.pyplot as plt from sklearn.model_selection import fetch_california_housing"
+    "text": "Purpose\nLinear regression is an essential tool for any statistician, data scientist, or machine learning practitioner. Linear regression is used to model the relationship between a dependent variable and one or more independent variables. Linear regression can be used:\n- to make future predictions \n- understand the strength of relationships between variables\n- identify trends in data. \nThis tutorial will cover the basics of linear regression using Python. To demonstrate, a database containing pricing and size (in square feet) of houses in California will be used. The goal of this tutorial is to predict the price of a house based on its size. ```\n\n### Import necessary libraries\n\n::: {#00b2d55f .cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\nfrom sklearn.datasets import fetch_california_housing\n:::\nThe libraries being used are pandas and sklearn. Pandas is a useful library for data modeling and analysis. sklearn contains the dataset we will be using for this tutorial."
   }
 ]
