@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "projects/linear_regression_tutorial.html",
-    "href": "projects/linear_regression_tutorial.html",
-    "title": "Linear Regression Tutorial",
-    "section": "",
-    "text": "Purpose\nLinear regression is an essential tool for any statistician, data scientist, or machine learning practitioner. Linear regression is used to model the relationship between a dependent variable and one or more independent variables. Linear regression can be used:\n- to make future predictions \n- understand the strength of relationships between variables\n- identify trends in data. \nThis tutorial will cover the basics of linear regression using Python. To demonstrate, a database containing pricing and size (in square feet) of houses in California will be used. The goal of this tutorial is to predict the price of a house based on its size. ```\n\n### Import necessary libraries\n\n::: {#00b2d55f .cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\nfrom sklearn.datasets import fetch_california_housing\n:::\nThe libraries being used are pandas and sklearn. Pandas is a useful library for data modeling and analysis. sklearn contains the dataset we will be using for this tutorial."
-  }
-]
